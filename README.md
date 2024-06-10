@@ -5,6 +5,6 @@
 
 ![Иллюстрация к проекту](https://github.com/Druzhocheck/Blog-Flask/blob/main/static/img/index.png)
 
-![Иллюстрация к проекту](https://github.com/Druzhocheck/Blog-Flask/tree/main/static/img/create.png)
+![Иллюстрация к проекту](https://github.com/Druzhocheck/Blog-Flask/blob/main/static/img/create.png)
 
 ![Иллюстрация к проекту](https://github.com/Druzhocheck/Blog-Flask/tree/main/static/img/index.png)
